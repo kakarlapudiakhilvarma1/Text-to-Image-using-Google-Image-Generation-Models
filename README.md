@@ -62,7 +62,12 @@ streamlit
 
 ## Output Screenshots
 
-(Add your output screenshots here)
+![image](https://github.com/user-attachments/assets/51c585f0-6309-4c7e-b118-3e517a012237)
+
+---
+### Generated Image
+![image](https://github.com/user-attachments/assets/54f036c1-2773-4df8-8aa7-3e7d3680f494)
+
 
 ## Notes
 
