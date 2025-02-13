@@ -67,6 +67,9 @@ streamlit
 ---
 ### Generated Image
 ![image](https://github.com/user-attachments/assets/54f036c1-2773-4df8-8aa7-3e7d3680f494)
+---
+![image](https://github.com/user-attachments/assets/6f11ecfb-d1cd-412c-bc17-5eff4cbcc81d)
+
 
 
 ## Notes
